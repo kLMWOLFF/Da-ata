@@ -15,7 +15,6 @@ GameObject:
   - component: {fileID: 1882598879884589371}
   - component: {fileID: 5978846699483035891}
   - component: {fileID: 4730621927410973434}
-  - component: {fileID: 2695622451317589608}
   m_Layer: 0
   m_Name: Disk
   m_TagString: Untagged
@@ -286,20 +285,3 @@ MonoBehaviour:
   m_MinimumScaleRatio: 0.25
   m_MaximumScaleRatio: 2
   m_ScaleMultiplier: 0.25
---- !u!114 &2695622451317589608
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3963161442757444590}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a0ac9bc59fe11f144865dfc53cd1a6af, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerCenter: {fileID: 0}
-  gravityStrength: 5
-  floatForceStrength: 0.2
-  gazeAttractDistance: 10
-  gazeAngleThreshold: 15
