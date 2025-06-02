@@ -1,0 +1,5 @@
+/Users/ayoubazzouzi/Documents/Head/VR/Unity/Da-ata/.utmp/RelWithDebInfo/u4iia34x/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/ayoubazzouzi/Documents/Head/VR/Unity/Da-ata/.utmp/RelWithDebInfo/u4iia34x/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/ayoubazzouzi/Documents/Head/VR/Unity/Da-ata/.utmp/RelWithDebInfo/u4iia34x/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/ayoubazzouzi/Documents/Head/VR/Unity/Da-ata/.utmp/RelWithDebInfo/u4iia34x/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/ayoubazzouzi/Documents/Head/VR/Unity/Da-ata/.utmp/RelWithDebInfo/u4iia34x/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
